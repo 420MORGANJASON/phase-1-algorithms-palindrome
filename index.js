@@ -34,7 +34,7 @@ console.log(isPalindrome("racecar___"));
 
 console.log(isPalindrome("a___"));
 
-console.log(isPalindrome("robit___"));
+console.log(isPalindrome("robot___"));
 
 console.log(isPalindrome("ab___"));
 
