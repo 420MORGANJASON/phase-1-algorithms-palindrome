@@ -27,6 +27,7 @@ and turn everything into the same case (lower or upper case) in order to check f
   Add written explanation of your solution here
 */
 
+// // You can run `node index.js` to view these console logs
 console.log(isPalindrome("abba___"));
 
 console.log(isPalindrome("racecar___"));
@@ -37,7 +38,7 @@ console.log(isPalindrome("robit___"));
 
 console.log(isPalindrome("ab___"));
 
-// // You can run `node index.js` to view these console logs
+
 // if (require.main === module) {
 //   // add your own custom tests in here
 //   console.log("Expecting: true");
